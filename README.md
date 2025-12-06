@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pp0025/pp0025/main/svg/akash-banner.svg" width="100%">
+</p>
+
 # 🌟 **Akash Roy — Embedded Systems & IoT Developer**
 
 ## Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I am **Akash Roy** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ---
 
-I am an **Electronics & Communication Engineering student** specializing in **Embedded Systems, IoT development, and microcontroller-based hardware projects**.
+I am an **Electronics & Communication Engineering student** specializing in **Embedded Systems, IoT development, and microcontroller-based hardware projects**.  
 I love building smart systems with **ESP32, Arduino, Raspberry Pi Pico**, and integrating them with cloud platforms like **Blynk** and **Arduino IoT Cloud**.
 
 I enjoy working on hands-on electronics, firmware, and automation engineering — always learning, improving, and experimenting with real-world hardware.
@@ -41,24 +45,24 @@ I enjoy working on hands-on electronics, firmware, and automation engineering �
 
 ## 🏆 **Featured Electronics & IoT Projects**
 
-* **🚗 Wi-Fi Controlled IoT Car (ESP32 + Blynk)**
+* **🚗 Wi-Fi Controlled IoT Car (ESP32 + Blynk)**  
   Real-time mobile-controlled robotic car with Wi-Fi, PWM motor control, and IoT dashboard.
 
-* **🏠 Google Home Automation (ESP32 + Arduino IoT Cloud)**
+* **🏠 Google Home Automation (ESP32 + Arduino IoT Cloud)**  
   Smart home project with voice-controlled appliances synced via Google Assistant.
 
-* **🎵 ESP32 Bluetooth MP3 Player**
+* **🎵 ESP32 Bluetooth MP3 Player**  
   Bluetooth-controlled MP3 system using DFPlayer Mini and OLED display.
 
-* **📈 PicoScope — Raspberry Pi Pico Oscilloscope**
+* **📈 PicoScope — Raspberry Pi Pico Oscilloscope**  
   Portable oscilloscope using Raspberry Pi Pico ADC + Scoppy app for waveform visualization.
 
 ---
 
 ## ⚡ **Fun Facts About Me**
 
-* 🔌 I love experimenting with circuits and debugging hardware.
-* 🤖 Strong passion for IoT, automation, and embedded firmware.
+* 🔌 I love experimenting with circuits and debugging hardware.  
+* 🤖 Strong passion for IoT, automation, and embedded firmware.  
 * 🎯 Currently improving my skills in **RTOS**, **Embedded C**, and **IoT Cloud systems**.
 
 ---
@@ -83,6 +87,4 @@ I enjoy working on hands-on electronics, firmware, and automation engineering �
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AkashRoy-EC\&label=Profile%20Views\&color=0\&icon=1\&pretty=false)](https://visitcount.itsvg.in)
-
-
+[![](https://visitcount.itsvg.in/api?id=AkashRoy-EC&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
